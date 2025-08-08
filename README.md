@@ -1,3 +1,12 @@
+<h1>variant component🥳</h1>
+<img src="/src/images/01.png"/>
+<img src="/src/images/02.png"/>
+<img src="/src/images/03.png"/>
+<img src="/src/images/04.png"/>
+<img src="/src/images/05.png"/>
+<img src="/src/images/06.png"/>
+<img src="/src/images/07.png"/>
+<img src="/src/images/08.png"/>
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
